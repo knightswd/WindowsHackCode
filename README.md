@@ -6,7 +6,7 @@
 
 * [基础的注册表创建与修改](https://github.com/knightswd/WindowsHackCode/blob/main/Reg/reg.cpp)
 
-通过系统调用进行注册表修改
+* [通过系统调用进行注册表修改](https://github.com/knightswd/WindowsHackCode/blob/main/Reg/RegSyscall/reg/reg.cpp)
 
 ## 进程
 
