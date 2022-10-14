@@ -20,6 +20,6 @@
 
 * [设置进程权限](https://github.com/knightswd/WindowsHackCode/blob/main/Privilege%26Token/SetPrivilege.cpp)
 
-获取其他用户的进程句柄权限并创建进程
+* [获取其他用户的进程句柄权限并创建相应权限进程](https://github.com/knightswd/WindowsHackCode/blob/main/Privilege%26Token/StealServiceToken.cpp)
 
 ## 内存
